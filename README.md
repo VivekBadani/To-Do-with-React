@@ -18,4 +18,14 @@ npm run build
 
 npm run deploy
 
-## The published To-do App:
+## Demo:
+
+<details>
+ <p>
+   
+![dashboard_large](images/to1.JPG)
+
+
+</p>
+![dashboard_large](images/to2.JPG)
+</details>
