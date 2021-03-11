@@ -28,6 +28,8 @@ npm run deploy
 
 </p>
 <p>
+ 
 ![dashboard_large](images/to2.JPG)
+
  </p>
 </details>
